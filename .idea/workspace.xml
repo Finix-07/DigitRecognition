@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d13cb467-3c70-44dc-b94e-b2df1876d7f5" name="Changes" comment="done till backprop" />
+    <list default="true" id="d13cb467-3c70-44dc-b94e-b2df1876d7f5" name="Changes" comment="done till backprop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MakingModel.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +105,7 @@
       <updated>1727671749529</updated>
       <workItem from="1727671753009" duration="2191000" />
       <workItem from="1727675387640" duration="871000" />
-      <workItem from="1727677018948" duration="6919000" />
+      <workItem from="1727677018948" duration="11171000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized the project">
       <option name="closed" value="true" />
